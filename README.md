@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/akhilreddy-008/LEETCODE/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/akhilreddy-008/LEETCODE/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akhilreddy-008/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akhilreddy-008/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/akhilreddy-008/LEETCODE/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/akhilreddy-008/LEETCODE/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akhilreddy-008/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/akhilreddy-008/LEETCODE/tree/master/0049-group-anagrams) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/akhilreddy-008/LEETCODE/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
