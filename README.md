@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akhilreddy-008/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akhilreddy-008/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhilreddy-008/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilreddy-008/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhilreddy-008/LEETCODE/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilreddy-008/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
