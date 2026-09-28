@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akhilreddy-008/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/akhilreddy-008/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhilreddy-008/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/akhilreddy-008/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilreddy-008/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/akhilreddy-008/LEETCODE/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/akhilreddy-008/LEETCODE/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/akhilreddy-008/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/akhilreddy-008/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/akhilreddy-008/LEETCODE/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/akhilreddy-008/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
