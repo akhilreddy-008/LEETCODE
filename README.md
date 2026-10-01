@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akhilreddy-008/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/akhilreddy-008/LEETCODE/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/akhilreddy-008/LEETCODE/tree/master/0049-group-anagrams) |
+| [0209-minimum-size-subarray-sum](https://github.com/akhilreddy-008/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/akhilreddy-008/LEETCODE/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akhilreddy-008/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akhilreddy-008/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhilreddy-008/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhilreddy-008/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhilreddy-008/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhilreddy-008/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhilreddy-008/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
