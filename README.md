@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akhilreddy-008/LEETCODE/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akhilreddy-008/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akhilreddy-008/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/akhilreddy-008/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0881-boats-to-save-people](https://github.com/akhilreddy-008/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhilreddy-008/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhilreddy-008/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
