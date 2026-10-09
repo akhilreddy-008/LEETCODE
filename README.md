@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akhilreddy-008/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0881-boats-to-save-people](https://github.com/akhilreddy-008/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhilreddy-008/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akhilreddy-008/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhilreddy-008/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilreddy-008/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilreddy-008/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhilreddy-008/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akhilreddy-008/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
 | ------- |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilreddy-008/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/akhilreddy-008/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akhilreddy-008/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
